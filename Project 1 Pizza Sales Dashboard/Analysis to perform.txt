@@ -1,0 +1,69 @@
+I have A pizza database with columns 
+pizza_id,
+order_id,
+pizza_name_id,
+quantity,
+order_date,
+order_time,
+unit_price,
+total_price,
+pizza_size,
+pizza_category,
+pizza_name
+
+Now perform EDA and tell me what KPI's I can create key point indicators and what 
+analysis I can show 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For your EDA on the Pizza Database, you can start by exploring the data to understand its characteristics and relationships. Here are some key points and KPIs you can consider:
+
+1. **Total Revenue:** Calculate the total revenue generated from pizza sales over a specific period.
+
+2. **Average Order Value:** Determine the average amount spent per order.
+
+3. **Popular Pizza Sizes:** Identify the most commonly ordered pizza sizes.
+
+4. **Popular Pizza Categories:** Determine the most popular categories of pizzas (e.g., vegetarian, non-vegetarian).
+
+5. **Sales Trends Over Time:** Analyze how pizza sales have trended over different time periods (daily, weekly, monthly).
+
+6. **Peak Order Times:** Identify the times of day when pizza orders are highest.
+
+7. **Customer Segmentation:** Segment customers based on their ordering behavior (e.g., frequent vs. occasional customers).
+
+8. **Top Selling Pizzas:** Identify the best-selling pizza names or categories.
+
+9. **Order Frequency:** Determine how often customers place orders.
+
+10. **Customer Loyalty:** Analyze repeat orders from customers to measure loyalty.
+
+11. **Seasonal Variations:** Identify any seasonal trends in pizza sales (e.g., more sales during holidays or weekends).
+
+12. **Profit Margin:** Calculate the profit margin for each pizza sold.
+
+13. **Discount Analysis:** Analyze the impact of discounts on sales and profit.
+
+14. **Order Fulfillment Time:** Calculate the average time taken to fulfill an order.
+
+15. **Customer Satisfaction:** If available, analyze customer feedback or ratings to gauge satisfaction levels.
+
+These KPIs can provide valuable insights into your pizza sales data, helping you understand customer preferences, optimize pricing strategies, and improve overall business performance.
