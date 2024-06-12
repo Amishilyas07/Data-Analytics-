@@ -1,0 +1,23 @@
+---
+title: "Sample"
+author: "Amish"
+date: "2024-05-04"
+output: html_document
+---
+# Setting Up the environment 
+
+``` {r ggplot for penguin Data}
+
+library(tidyverse)
+library(palmerpenguins)
+data(penguins)
+View(penguins)
+
+```
+
+## Visualization
+``` {r ggplot for Data visualization}
+ggplot(data = penguins) +
+  geom_point(mapping = aes(x = flipper_length_mm, y = body_mass_g))
+
+```
