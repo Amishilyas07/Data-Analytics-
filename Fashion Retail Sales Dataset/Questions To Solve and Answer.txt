@@ -1,0 +1,49 @@
+For your **Fashion Retail Sales** dataset, you can derive several **KPIs** and perform various analyses to build an insightful dashboard. Here’s a structured approach:  
+
+---
+
+### **Key Performance Indicators (KPIs):**  
+1. **Total Revenue:** Sum of `Purchase Amount (USD)`.  
+2. **Average Order Value (AOV):** `Total Revenue / Total Orders`.  
+3. **Total Orders:** Count of `Customer Reference ID`.  
+4. **Number of Unique Customers:** Count of distinct `Customer Reference ID`.  
+5. **Customer Retention Rate:** % of repeat customers (`Customer Reference ID` appearing more than once).  
+6. **Sales by Day of the Week:** Identify which day has the highest/lowest sales.  
+7. **Sales by Month:** Track revenue trends over different months.  
+8. **Payment Method Distribution:** Analyze customer payment preferences.  
+9. **Average Review Rating:** `AVG(Review Rating)` to understand customer satisfaction.  
+10. **Sales by Product Category:** If `Item Purchased` includes categories, determine best-selling categories.  
+
+---
+
+### **Analysis & Questions to Solve for the Dashboard:**  
+
+#### **1. Sales Performance Analysis**
+- What is the **total revenue** generated over time?  
+- What is the **trend of sales** by month? Are there any seasonal peaks?  
+- What is the **best-selling item** (most purchased item)?  
+
+#### **2. Customer Behavior & Segmentation**
+- How many **new vs. returning customers** are there?  
+- What is the **average spend per customer**?  
+- Who are the **top 10 highest spending customers**?  
+
+#### **3. Payment & Purchase Patterns**
+- What is the **most used payment method**?  
+- How does **purchase behavior change by day of the week**? (Are weekends busier than weekdays?)  
+- What is the **average review rating**? Which products have the highest/lowest ratings?  
+
+#### **4. Time-Based Analysis**
+- How does sales performance **vary by month**?  
+- Which **day of the week generates the most sales**?  
+- What are the **peak purchase hours**? (If time is available)  
+
+---
+
+### **Dashboard Structure & Insights:**  
+
+📌 **Tab 1: Overview** (KPIs - Total Sales, AOV, Best Product, Repeat Customers)  
+📌 **Tab 2: Sales Trends** (Revenue by Month, Day of Week, Payment Method Distribution)  
+📌 **Tab 3: Customer Insights** (New vs. Returning, Top Customers, Review Ratings)  
+
+Would you like me to help with visual recommendations in **Power BI or Tableau**? 🚀
